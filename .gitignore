@@ -1,0 +1,8 @@
+# .env файл, чтобы скрыть токен
+.env
+
+# Python bytecode файлы
+__pycache__/
+
+# Логи
+*.log
